@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"it.mirea.mypolitopia.Map","l":"Npc.Action"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"it.mirea.mypolitopia.Map","l":"Npc"},{"p":"it.mirea.mypolitopia.Map","l":"Npc.NpcType"},{"p":"it.mirea.mypolitopia.Map","l":"Npc.Species"}]
